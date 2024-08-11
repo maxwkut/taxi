@@ -7,6 +7,7 @@ psycopg
 psycopg_binary
 evidently
 pandas
+prefect
 numpy
 scikit-learn
 jupyter
